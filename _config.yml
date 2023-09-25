@@ -20,7 +20,7 @@ sidebar:
     link: https://www.linkedin.com/in/guilleferreira/
   - name: Introduction
     icon: <i class="fa-brands fa-github"></i>
-    link: (./another-page.md)
+    link: another-page.md
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
 # When running locally, we run into the following error —
