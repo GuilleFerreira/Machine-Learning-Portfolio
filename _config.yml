@@ -13,7 +13,7 @@ plugins:
 sidebar:
   - name: Introduction
     icon: <i class="fa-brands fa-github"></i>
-    link: (another-page.md)
+    link: (./another-page.md)
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
