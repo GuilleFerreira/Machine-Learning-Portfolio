@@ -6,7 +6,9 @@ layout: default
 
 Here you will see my proyects of machine learning. Check out my proyects
 
-[./another-page.html](## Header 2)
+## Proyects
+[Click here](./another-page.html).
+
 
 > This is a blockquote following a header.
 >
