@@ -12,6 +12,12 @@ plugins:
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
+  - name: Projects
+    icon: <i class="fa-brands fa-github"></i>
+    link: projects.html
+  - name:
+    icon:
+    link:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/GuilleFerreira
