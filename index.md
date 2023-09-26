@@ -6,7 +6,7 @@ layout: default
 
 Here you will see my proyects of machine learning. Check out my proyects
 
-## Proyects
+## Projects
 [Click here](./another-page.html).
 
 
