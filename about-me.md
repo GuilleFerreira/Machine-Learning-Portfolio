@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About me
+# About me
 
 Hi! I'm Guillermo Ferreira, a computer engineering student and software developer. I find myself at the exciting intersection between technology and creativity, and here's a glimpse into who I am and what motivates me:
 
