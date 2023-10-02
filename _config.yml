@@ -18,6 +18,9 @@ sidebar:
   - name: Projects
     icon: <i class="fa-solid fa-brain"></i>
     link: projects.html
+  - name: Blog
+    icon: <i class="fa-brands fa-blogger-b"></i>
+    link: blog.html
   - name:
     icon:
     link:
