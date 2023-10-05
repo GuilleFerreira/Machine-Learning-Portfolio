@@ -59,5 +59,5 @@ print("First 5 rows of the Normalized DataFrame: \n", dfNormalized.head(), "\n")
 ```
 
 ## Results
-![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/wine/information.png)
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/wine/information.png?raw=true)
 
