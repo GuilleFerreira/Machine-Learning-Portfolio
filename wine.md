@@ -28,8 +28,7 @@ df = pd.read_csv(filePath, delimiter=',', names=columnNames)
 
 # Print information about the DataFrame
 info = df.info()
-print("Information about the DataFrame: \n", info, "\n")
-
+print(info)
 
 # Print description of the DataFrame
 describe = df.describe()
@@ -59,5 +58,18 @@ print("First 5 rows of the Normalized DataFrame: \n", dfNormalized.head(), "\n")
 ```
 
 ## Results
+Information about the dataframe
 ![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/wine/information.png?raw=true)
+
+Description about the dataframe
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/wine/description.png?raw=true)
+
+Original dataframe
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/wine/original.png?raw=true)
+
+Standardized dataframe
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/wine/standarized.png?raw=true)
+
+Normalized dataframe
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/wine/normalized.png?raw=true)
 
