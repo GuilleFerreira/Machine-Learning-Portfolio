@@ -10,7 +10,7 @@ The dataset was created for testing and is intended to predict the wine crop acc
 
 In this opportunity we are going to perform the work of data preparation, this is essential to ensure that the data is suitable for the construction and training of Machine Learning models.
 
-Next we will show the Python code of how we normalize and standardize the data.
+Now we will show the python code of how we normalize and standardize using the pandas and sklearn libraries.
 
 ## Code
 ```
