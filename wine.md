@@ -57,3 +57,7 @@ dfNormalized = pd.DataFrame(scaler2.fit_transform(df), columns=df.columns)
 # Print the first 5 rows of the normalized DataFrame
 print("First 5 rows of the Normalized DataFrame: \n", dfNormalized.head(), "\n")
 ```
+
+## Results
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/wine/information.png)
+
