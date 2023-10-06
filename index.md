@@ -13,5 +13,5 @@ Welcome to my Machine Learning portfolio! I am Guillermo Ferreira, an artificial
 
 
 ## Projects
-[Click here to see my projecs](./another-page.html).
+[Click here to see my projecs](./projects.html).
 
