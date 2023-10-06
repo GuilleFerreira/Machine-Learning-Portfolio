@@ -127,4 +127,9 @@ print('Accuracy score =', accuracy_score(y_test, prediction))
 
 ## Results
 After all these steps we were able to arrive at a prediction with a 77% accuracy of being able to predict whether or not a passenger survives the Titanic using this algorithm.
+
 ![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-py/accuracy.png?raw=true)
+
+[Project Repo]([./another-page.html](https://github.com/GuilleFerreira/ML-Titanic-py)https://github.com/GuilleFerreira/ML-Titanic-py).
+
+[Go back to my projects](./projects.html).
