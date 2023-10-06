@@ -130,6 +130,6 @@ After all these steps we were able to arrive at a prediction with a 77% accuracy
 
 ![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-py/accuracy.png?raw=true)
 
-[Project Repo]([./another-page.html](https://github.com/GuilleFerreira/ML-Titanic-py)https://github.com/GuilleFerreira/ML-Titanic-py).
+[Project Repo](https://github.com/GuilleFerreira/ML-Titanic-py).
 
 [Go back to my projects](./projects.html).
