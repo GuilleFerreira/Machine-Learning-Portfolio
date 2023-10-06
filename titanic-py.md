@@ -11,18 +11,18 @@ The dataset contains the data of the Titanic passengers, based on the passenger 
 This is a binary classification problem using a supervised algorithm, in this case using random forest. 
 
 ### Attributes
-PassengerId: Passenger Id. Type Integer.
-Survived: If the passenger survived or not. Type Integer.
-Pclass: Passenger class. Integer type.
-Name: Passenger's name. String type.
-Sex: Passenger's sex. Type string.
-Age: Passenger age. Type float. 177 missing values
-SibSp: Number of passenger's siblings/spouses on board. Integer type.
-Parch: Number of parents/children of the passenger on board. Integer type.
-Ticket: Passenger's ticket number. String type.
-Fare: Passenger's ticket price. Type float.
-Cabin: Passenger's cabin. Type string. 687 missing values
-Embarked: Passenger's embarkation port. Type string. 2 missing values
+* PassengerId: Passenger Id. Type Integer.
+* Survived: If the passenger survived or not. Type Integer.
+* Pclass: Passenger class. Integer type.
+* Name: Passenger's name. String type.
+* Sex: Passenger's sex. Type string.
+* Age: Passenger age. Type float. 177 missing values
+* SibSp: Number of passenger's siblings/spouses on board. Integer type.
+* Parch: Number of parents/children of the passenger on board. Integer type.
+* Ticket: Passenger's ticket number. String type.
+* Fare: Passenger's ticket price. Type float.
+* Cabin: Passenger's cabin. Type string. 687 missing values
+* Embarked: Passenger's embarkation port. Type string. 2 missing values
 
 ## Data preparation
 First we import the pandas library that we will use to load the file, load it and print information about the file and its number of missing values.
