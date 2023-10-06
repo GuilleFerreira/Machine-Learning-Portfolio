@@ -4,10 +4,10 @@ layout: default
 # Projects
 
 
-## Wine data
-[Wine](./wine.html)
+## Wine - Data Preprocessing with Python
+[See Wine](./wine.html)
 
-## Titanic using Py
-[Titanic](./titanic-py.html)
+## Titanic - Prediction with Python
+[See Titanic](./titanic-py.html)
 
 [Go back](./)
