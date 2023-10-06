@@ -96,3 +96,27 @@ print(df.head())
 ![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-py/missing2.png?raw=true)
 
 ![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-py/head.png?raw=true)
+
+
+## Create testing and training dataset
+We will use sklearn train_test_split to split the dataset into 70% training and 30% testing. But first we must remove the Survived attribute because it is the one we are trying to predict, while the y variable will be assigned to survived.
+```
+from sklearn.model_selection import train_test_split
+X = df.drop('Survived', axis=1)
+y = df['Survived']
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=1)
+```
+
+## Apply Random Forest
+Finally we import RandomForestClassifier and accuracy_score from sklearn in order to initialize a random forest and train it with the training datasets, then use them to predict using the test dataset and evaluate its accuracy.
+```
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score
+random_forest = RandomForestClassifier()
+random_forest.fit(X_train, y_train)
+prediction = random_forest.predict(X_test)
+print('Accuracy score =', accuracy_score(y_test, prediction))
+```
+
+## Results
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-py/accuracy.png?raw=true)
