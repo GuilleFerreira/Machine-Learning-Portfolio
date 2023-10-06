@@ -44,6 +44,8 @@ missing_count = missing_values.sum()
 print("Missing value counts:")
 print(missing_count)
 ```
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-py/info.png?raw=true)
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-py/missing1.png?raw=true)
 
 From this we know that the attributes Age, Cabin and Embarked have missing values. 
 We now proceed to delete the attributes that we do not consider important to solve this problem.
@@ -90,3 +92,5 @@ print(missing_count)
 
 print(df.head())
 ```
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-py/missing2.png?raw=true)
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-py/head.png?raw=true)
