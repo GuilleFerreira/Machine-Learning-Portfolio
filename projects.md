@@ -18,6 +18,13 @@ These are my machine learning projects, click on the link below each image to ac
 
 * * *
 
+## Titanic - Data analysis with Python
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/projects/titanic-analysis.png?raw=true)
+[See Titanic](./titanic-analysis.html)
+
+* * *
+
+
 
 
 [Go back](./)
