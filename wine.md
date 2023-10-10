@@ -73,3 +73,6 @@ Standardized dataframe
 Normalized dataframe
 ![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/wine/normalized.png?raw=true)
 
+
+[Go back to my projects](./projects.html).
+
