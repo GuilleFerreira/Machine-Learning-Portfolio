@@ -272,6 +272,6 @@ Results:
 
 ![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-analysis/paso5_img1.png?raw=true)
 
-[Project Repo](https://github.com/GuilleFerreira).
+[Project Repo](https://github.com/GuilleFerreira/ML-Titanic-Analysis-py).
 
 [Go back to my projects](./projects.html).
