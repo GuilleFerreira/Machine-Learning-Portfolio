@@ -55,6 +55,10 @@ print("Training Describe:")
 print(training.describe())
 ```
 
+Result:
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-analysis/paso2_img1.png?raw=true)
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-analysis/paso2_img2.png?raw=true)
+
 
 ## Dealing with NaN Values
 ```
@@ -90,6 +94,10 @@ print(training.head())
 print("Testing Head:")
 print(testing.head())
 ```
+
+Results:
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-analysis/paso3_img1.png?raw=true)
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-analysis/paso3_img2.png?raw=true)
 
 ## Plotting and Visualizing Data
 ```
@@ -153,6 +161,15 @@ sns.stripplot(x="Survived", y="Age", data=training, jitter=True)
 sns.pairplot(training)
 plt.show()
 ```
+
+Results:
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-analysis/paso4_img1.png?raw=true)
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-analysis/paso4_img2.png?raw=true)
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-analysis/paso4_img3.png?raw=true)
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-analysis/paso4_img4.png?raw=true)
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-analysis/paso4_img5.png?raw=true)
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-analysis/paso4_img6.png?raw=true)
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-analysis/paso4_img7.png?raw=true)
 
 ## Feature Engineering
 ```
@@ -248,6 +265,8 @@ print(training.sample(5))
 print("Training Sample Final:")
 print(testing.sample(5))
 ```
+Results:
+![Octocat](https://github.com/GuilleFerreira/Machine-Learning-Portfolio/blob/main/assets/img/titanic-analysis/paso5_img1.png?raw=true)
 
 [Project Repo](https://github.com/GuilleFerreira).
 
